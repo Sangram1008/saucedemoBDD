@@ -1,0 +1,20 @@
+project-name/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   └── resources/
+│   ├── test/
+│   │   ├── java/
+│   │   │   └── yourProject/
+│   │   │       ├── baseFile/
+│   │   │       ├── hooks/
+│   │   │       ├── pageObject/
+│   │   │       ├── runners/
+│   │   │       ├── stepDefinitions/
+│   │   │       └── utilities/
+│   │   └── resources/
+│   │       ├── config/
+│   │       ├── data/
+│   │       └── features/
+├── target/
+├── pom.xml or build.gradle
